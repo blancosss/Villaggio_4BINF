@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1524668324 source:/home/de_lauger/Scrivania/dio/main.c
+	<stdio.h>
+	<stdlib.h>
+	"mutex.h"
+	"shm.h"
+	<string.h>
+	<sys/wait.h>
+	<time.h>
+	<unistd.h>
+	"keys.h"
+
+1517994110 /home/de_lauger/Scrivania/dio/mutex.h
+	<stdio.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/ipc.h>
+	<sys/sem.h>
+
+1519291388 /home/de_lauger/Scrivania/dio/shm.h
+	<stdio.h>
+	<stdlib.h>
+	<sys/shm.h>
+	<sys/ipc.h>
+
+1524667872 /home/de_lauger/Scrivania/dio/keys.h
+
